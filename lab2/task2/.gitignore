@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+build_arm64/
+*.o
+*.exe
+*.a
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+.claude/
+
+# OS junk
+-p
+Thumbs.db
+Desktop.ini
+
+# Temp scripts
+*.ps1
